@@ -1,6 +1,6 @@
-#Title: Exploratory Data Analysis of Student Scores Dataset
+# Title: Exploratory Data Analysis of Student Scores Dataset
 
-##Description:
+## Description:
 
 In this Python project, I conducted an exploratory data analysis (EDA) on a dataset containing student scores. The project began with an initial exploration using Pandas functions like head(), info(), and others to gain insights into the structure and content of the dataset.
 
